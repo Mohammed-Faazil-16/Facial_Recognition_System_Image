@@ -15,8 +15,8 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/face-recognition-deepface.git
-cd face-recognition-deepface
+git clone https://github.com/Mohammed-Faazil-16/Facial_Recognition_System_Image.git
+cd Facial_Recognition_System_Image
 Install the required packages:
 
 You can install the required packages using pip:
